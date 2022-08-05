@@ -1,1 +1,6 @@
 good morning
+how are you today
+i am fine
+good night
+bye
+
